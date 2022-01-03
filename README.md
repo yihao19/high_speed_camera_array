@@ -12,7 +12,7 @@
       <a href="#about-the-project">About the project</a>
     </li>
     <li>
-      <a href="#tunnel">Flying Tunnel Setup</a>
+      <a href="#overview-of-the-actual-tunnel-setup">Flying Tunnel Setup</a>
       <ul>
         <li><a href="#camera">Chronos Tech High Speed Camera</a></li>
       </ul>
@@ -37,21 +37,20 @@
 
 
 
-### Tunnel
+### Overview of the actual tunnel setup
 
-Overview of the actual tunnel setup
 <br />
 <p>
     <img src="images/tunnel1.jpg" alt>
-    <em>Bat flying tunnel with canvas</em>
+    <figcaption>Bat flying tunnel with canvas</figcaption>
 </p>
 <p>
     <img src="images/tunnel2.jpg" alt>
-    <em>Side view of the flying tunnel</em>
+    <figcaption>Side view of the flying tunnel</figcaption>
 </p>
 <p>
     <img src="images/tunnel3.jpg" alt>
-    <em>Framework of the tunnel</em>
+    <figcaption>Framework of the tunnel</figcaption>
 </p>
 <br />
 <p align="right">(<a href="#top">back to top</a>)</p>
