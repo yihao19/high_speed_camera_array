@@ -65,8 +65,11 @@
     <figcaption>Testing the sychronization of cameras</figcaption>
 </p>
 <br />
-### Light
 
+### Light
+<p>
+    We use the Nali boxer light to provide stable illunimation for the tunnel
+</p>
 
 ### Monitor
 <p>
