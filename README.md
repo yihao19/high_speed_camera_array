@@ -85,7 +85,7 @@
 
 Yihao Hu - Yihao19@vt.edu
 <br />
-Rolf Mueller - 
+Rolf Müeller - rolf.mueller@vt.edu
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
