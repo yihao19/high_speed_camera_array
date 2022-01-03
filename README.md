@@ -3,7 +3,7 @@
 <br />
 
 <p>
-    <img src="images/tunnel_cad.jpg" alt>
+    <img src="images/tunnel_cad.jpg",width="200" height="400">
     <figcaption>Side view of the flying tunnel</figcaption>
 </p>
 
