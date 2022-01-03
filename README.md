@@ -40,10 +40,7 @@
 ### Overview of the actual tunnel setup
 
 <br />
-<p>
-    <img src="images/tunnel1.jpg" alt>
-    <figcaption>Bat flying tunnel with canvas</figcaption>
-</p>
+
 <p>
     <img src="images/tunnel2.jpg" alt>
     <figcaption>Side view of the flying tunnel</figcaption>
@@ -67,9 +64,15 @@
 <br />
 
 ### Light
+
 <p>
-    We use the Nali boxer light to provide stable illunimation for the tunnel
+    We use the Nila boxer light to provide stable illunimation for the tunnel. 
 </p>
+<p>
+    <img src="images/tunnel1.jpg" alt>
+    <figcaption>Nila boxer light </figcaption>
+</p>
+
 
 ### Monitor
 <p>
