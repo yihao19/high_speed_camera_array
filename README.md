@@ -41,10 +41,18 @@
 
 Overview of the actual tunnel setup
 <br />
-![Alt text](images/tunnel1.jpg)
-![Alt text](images/tunnel2.jpg)
-![Alt text](images/tunnel3.jpg)
-
+<p>
+    <img src="images/tunnel1.jpg" alt>
+    <em>Bat flying tunnel with canvas</em>
+</p>
+<p>
+    <img src="images/tunnel2.jpg" alt>
+    <em>Side view of the flying tunnel</em>
+</p>
+<p>
+    <img src="images/tunnel3.jpg" alt>
+    <em>Framework of the tunnel</em>
+</p>
 <br />
 <p align="right">(<a href="#top">back to top</a>)</p>
 
