@@ -5,7 +5,6 @@
 <p>
     <img src="images/tunnel_dim_1.png",width="400" height="400">
     <img src="images/tunnel_dim_2.png",width="400" height="400">
-    <figcaption>Side view of the flying tunnel</figcaption>
 </p>
 
 <!-- TABLE OF CONTENTS -->
