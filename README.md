@@ -42,7 +42,7 @@
 
 ### Overview of the actual tunnel setup
 <p>
-  Our bat flying tunnel consists of 50 high-speed camera and 40 lights. The dimension is about 8 meters long, 3.3 meters hight, and 2.7 meters in width. 
+  Our bat flying tunnel consists of 50 high-speed camera and 40 lights. The dimension is about 8.6 meters long, 3.3 meters hight, and 2.9 meters in width. 
 </p>
 <br />
 
