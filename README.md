@@ -29,8 +29,9 @@
   <summary>High Speed Camera Array for Flying Bats</summary>
   <ol>
     <li>
+      <ul>
       <a href="#about the project">About the project</a>
-      
+      </ul>
     </li>
     <li>
       <a href="#tunnel">Flying Tunnel Setup</a>
