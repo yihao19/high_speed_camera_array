@@ -29,7 +29,11 @@
   <summary>High Speed Camera Array for Flying Bats</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Flying Tunnel Setup</a>
+      <a href="#about the project">About the project</a>
+      
+    </li>
+    <li>
+      <a href="#tunnel">Flying Tunnel Setup</a>
       <ul>
         <li><a href="#camera">Chronos Tech High Speed Camera</a></li>
       </ul>
