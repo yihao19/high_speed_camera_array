@@ -30,7 +30,7 @@
   <ol>
     <li>
       <a href="#about the project">About the project</a>
-      <li><a href="#camera">Chronos Tech High Speed Camera</a></li>
+      
     </li>
     <li>
       <a href="#tunnel">Flying Tunnel Setup</a>
