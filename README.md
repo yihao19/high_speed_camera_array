@@ -30,7 +30,7 @@
   <ol>
     <li>
       <ul>
-      <a href="#about the project">About the project</a>
+      <li><a href="#about the project">About the project</a></li>
       </ul>
     </li>
     <li>
