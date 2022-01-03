@@ -57,12 +57,28 @@
 
 
 ### Camera
-
+<p>
+   We are using high speed camera from Chronos Tech that provides 1069 f/s with 1024*1280 resolution. The maximum recording time with the mentioned configuration is about 8 seconds, which can provide extremely detailed recording of bats behavior.
+</p>
+<p>
+    <img src="images/camera.jpg" alt>
+    <figcaption>Testing the sychronization of cameras</figcaption>
+</p>
+<br />
 ### Light
 
 
 ### Monitor
-![Alt text](images/monitor.jpg)
+<p>
+    We designed a web page based on the camera built-in API to monitor and control the status of camera including triggering, recording, and saving
+</p>
+<br />
+
+<p>
+    <img src="images/monitor_page.jpg" alt>
+    <figcaption>Monitoring page</figcaption>
+</p>
+<br />
 
 <!-- CONTACT -->
 ## Contact
