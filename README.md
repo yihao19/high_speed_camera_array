@@ -3,8 +3,8 @@
 <br />
 
 <p>
-    <img src="images/tunnel_dim_1.png",width="350" height="400">
-    <img src="images/tunnel_dim_2.png",width="350" height="400">
+    <img src="images/tunnel_dim_1.png",width="300" height="300">
+    <img src="images/tunnel_dim_2.png",width="300" height="300">
 </p>
 
 <!-- TABLE OF CONTENTS -->
